@@ -1,0 +1,127 @@
+
+body {
+  font-family: courier new;
+  padding: 3rem;
+  z-index: 200;
+  background: url(gogh4.jpg);
+}
+
+.container {
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+
+}
+
+.item {
+  max-width: 960px;
+  text-align: center;
+}
+
+.button {
+	position: absolute;
+	left: 50px;
+	top: 50px;
+  border: 7px double;
+  border-color: black;
+  padding: 20px;
+  font-size: 40px;
+  background-color: rgb(225, 186, 253);
+  opacity: 80%; 
+}
+
+.button:hover {
+  background-color: rgb(197, 103, 247);
+  color: white;
+  cursor: pointer;
+  opacity: 90%; 
+}
+
+.gogh1 {
+  background: url(gogh1.jpg);
+}
+
+.gogh2 {
+  background: url(gogh3.jpg);
+}
+
+.gogh3 {
+  background: url(gogh3.jpg);
+}
+
+.gogh4 {
+  background: url(gogh4.jpg);
+}
+
+.gogh5 {
+  background: url(gogh5.jpg);
+}
+
+.gogh6 {
+  background: url(gogh6.jpg);
+}
+
+.gogh7 {
+  background: url(gogh7.jpg);
+}
+
+.gogh8 {
+  background: url(gogh8.jpg);
+}
+
+.gogh9 {
+   background: url(gogh9.jpg);
+}
+
+.gogh10 {
+   background: url(gogh10.jpg);
+}
+
+.gogh11{
+  background: url(gogh11.jpg);
+}
+
+.gogh12 {
+  background: url(gogh12.jpg);
+}
+
+.gogh13 {
+  background: url(gogh13.jpg);
+}
+
+.gogh14 {
+  background: url(gogh14.jpg);
+}
+
+.gogh15 {
+  background: url(gogh15.jpg);
+}
+
+.gogh16 {
+  background: url(gogh16.jpg);
+}
+
+.gogh17 {
+  background: url(gogh17.jpg);
+}
+
+.gogh18 {
+  background: url(gogh18.jpg);
+}
+
+.gogh19 {
+   background: url(gogh19.jpg);
+}
+
+.gogh20 {
+   background: url(gogh20.jpg);
+}
+.gogh21 {
+  background: url(gogh21.jpg);
+}
+
+
+.highlight {
+  font-size: 200px;
+}
